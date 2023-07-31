@@ -1,4 +1,4 @@
-### Olá!, José aqui!
+### Olá, José aqui!
 
 - Engajado em aperfeiçoar minhas habilidades em Python e SQL;
 - Inclinação para a engenharia e/ou análise de dados;
