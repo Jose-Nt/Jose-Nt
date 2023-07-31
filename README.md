@@ -1,6 +1,6 @@
 ### Olá!
 
-- Engajado em aprender SQL e aprimorar minhas habilidades em Python;
+- Engajado em aprender SQL e se aprimorar em Python;
 - Inclinação para a engenharia e/ou análise de dados;
 - Em busca de experiência!
 
