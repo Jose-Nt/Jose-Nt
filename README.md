@@ -6,7 +6,7 @@
 
 
 #### Contato:
-- Linkedin: www.linkedin.com/in/josé-neto-souza-de-lima-287900278
+- Linkedin: www.linkedin.com/in/josé-neto-souza-287900278
 - Email: jos.souzalima@gmail.com
 
 
