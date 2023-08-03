@@ -1,5 +1,4 @@
 ### Olá, José aqui!
-- Engajado em aperfeiçoar minhas habilidades em SQL;
 - Inclinação para a engenharia e/ou análise de dados;
 - Pronto para aprender novas tecnolgias;
 - Em busca de experiência!
