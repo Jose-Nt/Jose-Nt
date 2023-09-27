@@ -1,5 +1,5 @@
 ### Olá, José aqui!
-- Inclinação para a engenharia e/ou análise de dados;
+- Inclinação para a engenharia de dados;
 - Pronto para aprender novas tecnolgias;
 - Em busca de experiência!
 
