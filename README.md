@@ -1,11 +1,11 @@
 ### Olá, José aqui!
-- Inclinação para a engenharia de dados;
+- Entusiasta em engenharia de dados;
 - Pronto para aprender novas tecnolgias;
 - Em busca de experiência!
 
 
 #### Contato:
-- Linkedin: www.linkedin.com/in/josé-neto-souza-287900278
+- Linkedin: www.linkedin.com/in/jn-souza
 - Email: jos.souzalima@gmail.com
 
 
