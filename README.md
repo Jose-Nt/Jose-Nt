@@ -1,5 +1,5 @@
 ### Olá, José aqui!
-- Entusiasta em engenharia de dados;
+- Entusiasta em engenharia e análise de dados;
 - Pronto para aprender novas tecnolgias;
 - Em busca de experiência!
 
