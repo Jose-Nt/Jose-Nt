@@ -1,6 +1,6 @@
 ### Olá, José aqui!
 - Atualmente trabalhando com engenharia de dados;
-- Aperfeiçoando habilidades de integração de processos ETL com plataformas de computação em nuvem, otimizando a eficiência e escalabilidade das operações de dados;
+- Aperfeiçoando habilidades de integração de processos ETL com plataformas de computação em nuvem;
 
 
 #### Contato:
