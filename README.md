@@ -1,10 +1,10 @@
 ### Olá, José aqui!
-- Atualmente trabalhando com engenharia de dados;
+- Atualmente trabalhando como Engenheiro de Dados;
 - Aperfeiçoando habilidades de integração de processos ETL com plataformas de computação em nuvem;
 
 
 #### Contato:
-- Linkedin: www.linkedin.com/in/jn-souza
+- Medium: https://medium.com/@jose.souzalima
 - Email: jos.souzalima@gmail.com
 
 
