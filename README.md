@@ -1,14 +1,14 @@
-### Olá, José aqui!
-- Atualmente trabalhando como Engenheiro de Dados;
-- Aperfeiçoando habilidades de integração de processos ETL com plataformas de computação em nuvem;
+### Hello, José here!
+- Currently working as a Data Engineer;
+- Improving skills in integrating ETL processes with cloud computing platforms;
 
 
-#### Contato:
+#### Contact:
 - Medium: https://medium.com/@jose.souzalima
-- Email: jos.souzalima@gmail.com
+- E-mail: jos.souzalima@gmail.com
 
 
-#### Linguagens e ferramentas:
+#### Languages ​​and tools:
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Python" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg" />
