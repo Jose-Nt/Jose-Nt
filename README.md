@@ -1,6 +1,6 @@
 ### Hello, José here!
 - Currently working as a Data Engineer at BR Media Group (a Publicis group company).
-- Continuously improving my skills in designing and building real-time data pipelines;
+- Improving my skills in designing and building real-time data pipelines;
 
 
 #### Contact:
