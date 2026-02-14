@@ -1,5 +1,5 @@
 ### Hello, José here!
-- Currently working as a Data Engineer;
+- Currently working as a Data Engineer at BR Media Group (a Publicis group company).
 - Improving skills in integrating ETL processes with cloud computing platforms;
 
 
