@@ -4,7 +4,7 @@
 
 
 #### Contact:
-- Medium: https://medium.com/@jose.souzalima
+- Linkedin: https://www.linkedin.com/in/jn-souza/
 - E-mail: jos.souzalima@gmail.com
 
 
